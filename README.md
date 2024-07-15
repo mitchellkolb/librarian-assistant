@@ -2,18 +2,30 @@
 <h1 align="center">Librarian Assistant</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/librarian-assistant?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/librarian-assistant?color=0F0F11">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/librarian-assistant?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/librarian-assistant?color=0F0F11">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/librarian-assistant?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/librarian-assistant?color=0F0F11">
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/librarian-assistant?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/librarian-assistant?color=0F0F11" />
 </p>
 
 <p align="center">
 <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"
+    src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="Website Badge" />
+<img
+    src="https://img.shields.io/badge/Javascript-B7A622?style=for-the-badge&logo=javascript&logoColor=white"
+    alt="Website Badge" />
+<img
+    src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white"
+    alt="Website Badge" />
+<img
+    src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    alt="Website Badge" />
+<img
+    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
     alt="Website Badge" />
 <img
     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows 10&logoColor=white"
