@@ -20,7 +20,7 @@
     alt="Website Badge" />
 </p>
 
-This project is intended to showcase our knowledge learning about Neural Network Design by developing a
+In this project, we develop a library assistance webapp that manages user registrations, book searches, holds, checkouts, book returns, etc, as well as storing all that information on a database. 
 
 ![project image](resources/image1.png)
 
@@ -51,7 +51,9 @@ This project is intended to showcase our knowledge learning about Neural Network
 
 
 # Tools Used / Development Environment
-- Python
+- Angular version 13.3.2
+- Node.js version 16.14.2
+- PostgreSQL version 12.9 (Ubuntu) or 14.2 (Windows)
 - VS Code
 - Terminal
 - Windows 10
