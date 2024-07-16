@@ -51,14 +51,20 @@ In this project, we develop a library assistance webapp that manages user regist
 - [Team / Contributors / Teachers](#team--contributors--teachers)
 - [How to Set Up](#how-to-set-up)
 - [Project Overview](#project-overview)
-- [References](#references)
+- [Project Details](#project-details)
+  - [Technical Plan](#technical-plan)
+  - [Milestones](#milestones)
+- [Results](#results)
+- [Future Work](#future-work)
 - [Acknowledgments](#acknowledgments)
 
 ---
 
 # What I Learned in this Project
-- How to
-- Programming in 
+- How to develop a website using the Angular framework.
+- Using PostgreSQL to store and retrieve data for the frontend.
+- Programming using typescript, javascript, and html/css.
+- Developing software using the SCRUM methodology.
 
 
 
@@ -88,58 +94,56 @@ In this project, we develop a library assistance webapp that manages user regist
 
 
 # How to Set Up
-This project was implemented on our local machine inside of a virtual machine using:
-- Ubuntu Version 20.04.03 found at this [link](http://lt.releases.ubuntu.com/20.04.3/).
+This project was implemented on our local machines:
 - Clone this repository 
-- Open terminal at the codebase `~.../ext2/Noah-Mitchell/`
+- Open terminal at the codebase `~.../librarian-assistant/JPENJ-322-Library-Project/`
+- Install PostgreSQL and create a new local instance and use our sql files to setup the table schema.
+- In `NodeJS/index.js` connect your database to the website in this file
+- Ensure you have Node.js version 16.14.2 installed. You can download it from the [Node.js website](https://nodejs.org/). Check your version number with: `node -v` and `npm -v`
+- Go into the NodeJS folder and use `npm install`
+- Run the Express server with `node index.js`
+- To setup the angular frontend go into the Angular folder and use `npm install`
+- Run the application with `ng serve`
 
 
 
 
 
 # Project Overview
-This project utilizes 
+This project utilizes Angular, Node.js, and PostgreSQL to create a comprehensive library management system. Our web application handles user registrations, book searches, holds, checkouts, returns, and more, with all data stored in a PostgreSQL database. This project was a collaborative effort by a team of six, aiming to streamline library operations.
 
+# Project Details
+The Librarian Assistant project is a web application designed to facilitate common library management tasks. It allows librarians to register users, search for books, place holds, check out and return books, and manage user and book data efficiently.
 
+## Technical Plan
+Our team used a multi-tier architecture, with Angular handling the client-side operations, Node.js serving as the server-side framework, and PostgreSQL managing the database. Our approach includes the following technologies and frameworks:
+- **Angular**: For building the front-end interface.
+- **Node.js**: As the server-side platform.
+- **PostgreSQL**: For database management.
+- **Express**: For handling server-side routing.
+- **Cors**: For enabling cross-origin requests.
+- **HTTPClient**: For managing HTTP requests within Angular.
 
-## Project Details
+### Milestones
+In this project, we followed a structured development process divided into several milestones:
+1. **Milestone 1**: Identified key tools, technologies, and the process model for the project.
+2. **Milestone 2**: Defined requirements and created use case diagrams to model user interactions.
+3. **Milestone 3**: Developed class diagrams and CRC index cards to define the system’s data structure.
+4. **Milestone 4**: Designed the high-level architecture and key components.
+5. **Milestone 5**: Elaborated on the design, including component and user interface design.
+6. **Milestone 6**: Constructed the application and created usage instructions.
+7. **Milestone 7**: Developed and executed test cases to ensure functionality and reliability.
+8. **Milestone 8**: Presented the final product, including a demo and retrospective summary.
 
-### Introduction
-In this project, we apply 
+## Results
+During development, our team successfully implemented a fully functional web application that met all project requirements. We were able to integrate various components effectively, allowing users to register, handling for book management and data processes. We also had some testing which allowed us to validated the system, confirming that our application performs as expected under different situations.
 
-
-### Literature Review
-In this we drew inspiration from various sources, including video tutorials online for 
-
-
-### Technical Plan
-The project employs a 
-
-
-### Implementation Details
-
-#### Files and Structure
-- `game.py`: Contains the racing game environment and controls the car's movement.
-> [!NOTE]
-> These files were 
-
-
-### Implementation
-In this project
-
-#### Results and Observations
-During development,
-<p float="left">
-  <img src="resources/image1.png" alt="First Try" width="300" />
-  <img src="resources/image2.png" alt="Final Try" width="307" />
-</p>
-
-#### Future Work
-Future improvements could include
-
-
-
-## References
+## Future Work
+Future improvements could include:
+- Enhancing the user interface to be more usable.
+- Implementing advanced search functionalities, such as filtering by genre or publication date.
+- Expanding the system to support multiple libraries within a single platform.
+- Actually publishing the site as well.
 
 
 
