@@ -2,13 +2,13 @@
 <h1 align="center">Librarian Assistant</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/librarian-assistant?color=0F0F11">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/librarian-assistant?color=B63E3A">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/librarian-assistant?color=0F0F11">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/librarian-assistant?color=B63E3A">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/librarian-assistant?color=0F0F11">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/librarian-assistant?color=B63E3A">
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/librarian-assistant?color=0F0F11" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/librarian-assistant?color=B63E3A" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
     src="https://img.shields.io/badge/Javascript-B7A622?style=for-the-badge&logo=javascript&logoColor=white"
     alt="Website Badge" />
 <img
-    src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white"
+    src="https://img.shields.io/badge/Angular-B63E3A?style=for-the-badge&logo=angular&logoColor=white"
     alt="Website Badge" />
 <img
     src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"
@@ -76,8 +76,12 @@ In this project, we develop a library assistance webapp that manages user regist
 
 # Team / Contributors / Teachers
 - [Mitchell Kolb](https://github.com/mitchellkolb)
-- [name]()
-- Professor. 
+- [Jose Robles](https://github.com/jose-robles2)
+- [Nick Zheng](https://github.com/NicholasZ42)
+- [Paul Swan](https://github.com/realPaulSwan)
+- [Evan Smtih](https://github.com/EvanSmith2002)
+- [Josh Konop](https://github.com/Joshua-Konop)
+- Professor. Haipeng Cai
 
 
 
