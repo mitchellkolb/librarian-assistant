@@ -34,7 +34,7 @@
 
 In this project, we develop a library assistance webapp that manages user registrations, book searches, holds, checkouts, book returns, etc, as well as storing all that information on a database. 
 
-![project image](resources/image1.png)
+![project image](resources/jpenj.gif)
 
 <details>
 <summary style="color:#5087dd">Watch the Full Video Demo Here</summary>
